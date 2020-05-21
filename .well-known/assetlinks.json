@@ -1,0 +1,39 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "no.eika.smartspar",
+      "sha256_cert_fingerprints": [
+        "5B:14:5B:71:5A:BF:45:F2:C6:C1:6B:99:3B:91:29:E5:4A:7B:F2:84:97:AB:40:DA:BB:AF:F2:8E:09:BC:96:2D",
+        "4D:F9:AC:D3:58:AC:D9:9E:2D:83:B7:C6:C3:67:61:0B:2D:63:2B:2A:63:40:3A:8B:0D:ED:8E:2F:6C:35:51:10"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "no.eika.kredittbank.test",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "no.eika.kredittbank",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  }
+]
